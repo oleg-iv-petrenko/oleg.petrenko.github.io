@@ -1,0 +1,70 @@
+body {
+    margin: 0px;
+    background: #f3f4f2;
+}
+
+.MainLayer {
+  width: 1024px;
+  height: 1024px;
+  margin: auto;
+}
+
+h1 {
+  font-family: Arial;
+  font-size: 36px;
+  font-weight: bold;
+  margin: 0px 0px 30px 270px;
+  padding-top: 50px;
+  text-transform: uppercase;
+}
+
+.Photo {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  margin: 1px 0px 0px 411px;
+  z-index: 65000;
+}
+
+.PhotoBackground {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  margin: 0px 0px 0px 410px;
+  background: #0056d3;
+  border: 1px solid #8f8f8f
+}
+
+.text {
+  margin: 260px 0px 0px 265px;
+  color: #1f1f1f
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.line {
+  margin-top: 15px;
+  border-top: 1px solid #d9d5da;
+  width: 500px;
+}
+
+h2 {
+  font-family: Myriad Pro;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+
+li {
+  font-family: Myriad Pro;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+p {
+  font-family: Myriad Pro;
+  font-size: 14px;
+  font-weight: normal;
+  margin: 0px 0px 0px 35px;
+}
